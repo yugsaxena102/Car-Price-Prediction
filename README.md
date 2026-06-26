@@ -222,7 +222,9 @@ Open **carpriceml.ipynb** and run all cells.
 * Save the trained model using Pickle or Joblib
 
 ---
+
 GitHub: https://github.com/yugsaxena102
+
 ---
 
 
